@@ -1,6 +1,8 @@
-# csgrub – Counter‑Strike Style GRUB Theme 🎮
+# CS-Grub – Counter‑Strike Style GRUB Theme 🎮
 
 A **Counter‑Strike inspired GRUB theme** that turns your boot menu into a **fullscreen side picker** (Linux vs Windows), inspired by the classic *CT vs T* selection screen.
+
+![Matrix Morpheus GRUB Theme preview showing Arch and Windows boot icons](preview.gif)
 
 > ⚠️ **Important:**
 > This theme intentionally uses a GRUB layout trick where **each menu entry is rendered as a fullscreen image**.
