@@ -69,7 +69,7 @@ Edit GRUB defaults:
 sudo nano /etc/default/grub
 ```
 
-Add or ensure the following:
+Add or ensure the following(the installation script does this but check again):
 
 ```ini
 GRUB_TIMEOUT_STYLE=menu
